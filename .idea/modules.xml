@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-crbook-parent2/spring-cloud-crbook-book/spring-cloud-crbook-book.iml" filepath="$PROJECT_DIR$/spring-cloud-crbook-parent2/spring-cloud-crbook-book/spring-cloud-crbook-book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-crbook-config/spring-cloud-crbook-config.iml" filepath="$PROJECT_DIR$/spring-cloud-crbook-config/spring-cloud-crbook-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-crbook-eureka/spring-cloud-crbook-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-crbook-eureka/spring-cloud-crbook-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-crbook-parent2/spring-cloud-crbook-index/spring-cloud-crbook-index.iml" filepath="$PROJECT_DIR$/spring-cloud-crbook-parent2/spring-cloud-crbook-index/spring-cloud-crbook-index.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-crbook-parent1.iml" filepath="$PROJECT_DIR$/spring-cloud-crbook-parent1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-crbook-parent2/spring-cloud-crbook-parent2.iml" filepath="$PROJECT_DIR$/spring-cloud-crbook-parent2/spring-cloud-crbook-parent2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-crbook-parent2/spring-cloud-crbook-user/spring-cloud-crbook-user.iml" filepath="$PROJECT_DIR$/spring-cloud-crbook-parent2/spring-cloud-crbook-user/spring-cloud-crbook-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-crbook-zuul/spring-cloud-crbook-zuul.iml" filepath="$PROJECT_DIR$/spring-cloud-crbook-zuul/spring-cloud-crbook-zuul.iml" />
+    </modules>
+  </component>
+</project>

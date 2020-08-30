@@ -1,0 +1,12 @@
+server:
+  port: 8002
+
+# 定义当前服务名
+spring:
+  application:
+    name: crindex
+  datasource:
+    url: jdbc:mysql://127.0.0.1/damai?serverTimezone=UTC&CharacterEncoding=UTF-8&useSSL=false
+    username: root
+    password: a
+    driver-class-name: com.mysql.jdbc.Driver
