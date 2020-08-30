@@ -7,15 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-cloud-crbook-eureka" />
-        <module name="spring-cloud-crbook-zuul" />
         <module name="spring-cloud-crbook-index" />
-        <module name="spring-cloud-crbook-user" />
         <module name="spring-cloud-crbook-config" />
+        <module name="spring-cloud-crbook-user" />
+        <module name="spring-cloud-crbook-zuul" />
         <module name="spring-cloud-crbook-book" />
+        <module name="spring-cloud-crbook-common" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring-cloud-crbook-book" target="1.8" />
+      <module name="spring-cloud-crbook-common" target="1.5" />
       <module name="spring-cloud-crbook-config" target="1.8" />
       <module name="spring-cloud-crbook-eureka" target="1.8" />
       <module name="spring-cloud-crbook-index" target="1.8" />

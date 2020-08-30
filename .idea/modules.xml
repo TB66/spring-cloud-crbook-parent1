@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-crbook-parent2/spring-cloud-crbook-book/spring-cloud-crbook-book.iml" filepath="$PROJECT_DIR$/spring-cloud-crbook-parent2/spring-cloud-crbook-book/spring-cloud-crbook-book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-cloud-crbook-common/spring-cloud-crbook-common.iml" filepath="$PROJECT_DIR$/../spring-cloud-crbook-common/spring-cloud-crbook-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-crbook-config/spring-cloud-crbook-config.iml" filepath="$PROJECT_DIR$/spring-cloud-crbook-config/spring-cloud-crbook-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-crbook-eureka/spring-cloud-crbook-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-crbook-eureka/spring-cloud-crbook-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-crbook-parent2/spring-cloud-crbook-index/spring-cloud-crbook-index.iml" filepath="$PROJECT_DIR$/spring-cloud-crbook-parent2/spring-cloud-crbook-index/spring-cloud-crbook-index.iml" />
